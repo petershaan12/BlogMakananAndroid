@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Blog Makanan</string>
+
+    <string name="blog_name">Nama Blog</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="profile">Profile</string>
+    <string name="my_name">Peter Shaan</string>
+    <string name="my_email">peterhiku12@gmail.com</string>
+    <string name="my_instagram">petershaan_</string>
+
+    <string-array name="data_name">
+        <item>4 Ide Menu Prasmanan Sederhana Tapi Mewah</item>
+        <item>5 Makanan Wajib Saat Imlek Dan Maknanya!</item>
+        <item>Cara Masak Nasi Darurat, Pakai Microwave Kantor Juga Bisa!</item>
+        <item>6 Ide Makanan Tahun Baru Di Rumah!</item>
+        <item>5 Kue Natal Terpopuler, Wajib Ada Di Meja!</item>
+        <item>5 Rekomendasi Menu Nasi Kotak 20000</item>
+        <item>Tak Hanya Lenjer, Yuk Kenali Jenis-Jenis Pempek Berikut Ini!</item>
+        <item>Kenali Manfaat Buah Naga Berikut Ini!</item>
+        <item>6 Obat Radang Tenggorokan, Alami Dan Aman!</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Dalam pagelaran acara, makanan yang dihidangkan adalah hal krusial yang perlu diperhatikan. Menu prasmanan adalah jenis makanan yang umum dipilih untuk acara-acara istimewa seperti pesta pernikahan, acara ulang tahun, hingga acara resmi seperti corporate event atau seminar. Prasmanan sendiri berasal dari kata fransman, sebutan untuk orang Prancis yang sering menyajikan makanan dengan cara diletakkan di atas meja. Biasanya terdapat beberapa jenis makanan yang tersedia di menu prasmanan. Jadi, tamu yang hadir dapat memilih sendiri menu yang akan dimakan. Untuk Foodspoters yang sedang merencanakan acara dan ingin menghemat anggaran, kamu bisa menyesuaikan menu dengan budget yang ada. Meski dengan anggaran yang terbatas, kita harus pintar-pintar memilih menu prasmanan yang sederhana tapi tetap mewah.</item>
+        <item>Foodspoters, tak terasa sebentar lagi perayaan Imlek akan segera tiba. Pada hari yang dinantikan oleh masyarakat Tionghoa ini, biasanya dirayakan dengan berbagai cara. Mulai dari pesta kembang api, membagikan angpao, membeli baju baru dan membersihkan rumah, hingga mengunjungi kerabat dan saudara. Saat berkumpul dengan keluarga, menyantap makanan wajib saat imlek tentunya tak boleh ketinggalan. Tak hanya untuk disantap, makanan khas Imlek memiliki makna-makna tertentu, lho. Makanan-makanan tersebut dipercaya akan membawa keberuntungan untuk setahun kedepan.</item>
+        <item>Nasi adalah kebutuhan dasar kita semua. Bagi sebagian besar orang Indonesia, rasanya belum kenyang kalau belum makan nasi. Meski sudah makan mie dua piring, tanpa sepiring nasi kenyangnya mungkin cuma bertahan 10 menit! Setuju, kan, Foodspoters? Nah, ngomongin soal nasi, kamu sudah tahu soal cara masak nasi di panci atau microwave belum? Kalau belum, segera simak informasi berikut hingga tuntas, deh! Cara termudah masak nasi bisa dilakukan dengan bantuan rice cooker. Tinggal masukkan beras dan air sesuai takaran, tutup, dan tunggu hingga matang. Akan tetapi, gimana kalau rice cooker sedang tidak bisa digunakan? Entah karena rusak, hilang, mati lampu, sedang berkemah, di kantor, dan sederet alasan darurat lain. Tentu saja masak di kompor dan microwave solusinya! Tidak perlu merasa heran dengan cara masak nasi di panci. Pasalnya, teknik ini sudah diterapkan sejak dulu kala, sejak rice cooker belum ada! Tekniknya sendiri ada 2, yakni teknik aron dan kastrol. </item>
+        <item>Foodspoters, tak terasa kita sudah berada di penghujung tahun. Pergantian tahun adalah momen yang ditunggu-tunggu di seluruh dunia. Malam tahun baru sangat tepat jika diisi dengan berkumpul bersama keluarga. Jika tak ada rencana, kamu tetap bisa menikmati momen pergantian tahun di rumah, lho. Namun, tak lengkap rasanya jika tidak ditemani oleh makanan. Untuk itu, kamu perlu pastikan santapan yang disajikan adalah makanan tahun baru yang enak dan sekiranya disukai oleh semua.</item>
+        <item>Foodspoters, tak terasa Natal sebentar lagi tiba. Momen ini umumnya dimanfaatkan untuk bersuka cita sambil mempererat hubungan dengan kerabat. Bicara soal kumpul dengan kerabat, tak lengkap rasanya jika tak didampingi aneka kue natal yang lezat. Untuk itu, foodspot telah memilih 5 rekomendasi kue Natal terpopuler yang bisa kamu jadikan opsi. Yuk, simak dulu rekomendasinya!</item>
+        <item>Dalam setiap acara atau kegiatan, hal penting yang wajib diperhatikan adalah kebutuhan konsumsi pesertanya. Soalnya, urusan perut memang nggak bisa diremehkan apalagi diabaikan. Lapar sedikit, konsentrasi bisa buyar dan mood jadi berantakan. Karena alasan praktis, mengenyangkan, dan terjangkau, nasi kotak kerap dijadikan pilihan sebagai hidangan untuk berbagai kegiatan seperti rapat kantor, acara sekolah, pameran, hingga rapat dengan klien. Saat memilih menunya, tak hanya rasa dan popularitas katering yang perlu diperhatikan. Namun, anggaran konsumsi, komposisi menu, dan kualitas nasi kotak juga perlu dipertimbangkan. Pada berbagai acara, nasi kotak harga 20000 biasa dijadikan standar untuk konsumsi.</item>
+        <item>Foodspoters, ngaku pencinta pempek tapi belum tahu jenis-jenis pempek? Pempek memang makanan favorit semua orang karena rasanya yang gurih dan bercitarasa tinggi.  Makanan khas palembang ini adalah hidangan berbahan baku ikan dan adonan tepung yang kemudian disajikan dengan kuah berwarna gelap khas Palembang bernama cuko. Supaya lebih nampol, biasanya pempek disajikan bersama mie kuning, irisan timun, dan ebi kering. Omong-omong soal pempek, terdapat beragam jenis pempek, lho! Penasaran apa saja? Yuk, simak dulu penjelasannya!</item>
+        <item>Foodspoters, ngaku pencinta pempek tapi belum tahu jenis-jenis pempek? Pempek memang makanan favorit semua orang karena rasanya yang gurih dan bercitarasa tinggi.  Makanan khas palembang ini adalah hidangan berbahan baku ikan dan adonan tepung yang kemudian disajikan dengan kuah berwarna gelap khas Palembang bernama cuko. Supaya lebih nampol, biasanya pempek disajikan bersama mie kuning, irisan timun, dan ebi kering. Omong-omong soal pempek, terdapat beragam jenis pempek, lho! Penasaran apa saja? Yuk, simak dulu penjelasannya!</item>
+        <item>Prof. Mr. Dr. Soepomo (Ejaan Soewandi: Supomo; lahir di Sukoharjo, Jawa Tengah, 22 Januari 1903 – meninggal di Jakarta, 12 September 1958 pada umur 55 tahun) adalah seorang pahlawan nasional Indonesia. Soepomo dikenal sebagai arsitek Undang-undang Dasar 1945, bersama dengan Muhammad Yamin dan Soekarno.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/blog1</item>
+        <item>@drawable/blog2</item>
+        <item>@drawable/blog3</item>
+        <item>@drawable/blog4</item>
+        <item>@drawable/blog5</item>
+        <item>@drawable/blog6</item>
+        <item>@drawable/blog7</item>
+        <item>@drawable/blog8</item>
+        <item>@drawable/blog9</item>
+        <item>@drawable/blog10</item>
+    </integer-array>
+</resources>

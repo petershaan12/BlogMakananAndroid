@@ -1,0 +1,11 @@
+package com.example.bangkitfinalprojectandroid
+
+import android.os.Parcelable
+import kotlinx.android.parcel.Parcelize
+
+@Parcelize
+data class Blog(
+    val name: String,
+    val description: String,
+    val photo: Int
+) : Parcelable
